@@ -31,10 +31,11 @@ body {
         text-align: left;
         color: white;
         padding-left: 5%;
-        padding-top: 5%;
+        padding-top: 25%;
         position: absolute;
         left: 0;
         top: 0;
+        vertical-align: middle;
     }
 }
 
