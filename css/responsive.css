@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     overflow-x: hidden;
+    
 }
 
 html,
@@ -11,6 +12,9 @@ body {
     margin: 0px;
 }
 
+* {
+    font-family: verdana;
+}
 @media (min-width:1170px) {
     #tlo {
         background-image: url(obrazy/man-1.jpg);
